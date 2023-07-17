@@ -1,8 +1,8 @@
-# Algorithm Study ICE
+# All SOL GA-ZU-AAAA
 
 ## **_Language_**
 
-`JAVA`, `PYTHON`, `JavaScript`, `C++`
+`PYTHON`,  `JAVA`
 
 ## **_Rule_**
 
@@ -16,7 +16,7 @@
 
 **_파일명_**
 
-- `알고리즘사이트_문제이름_이름`
+- `알고리즘사이트_문제번호_이름`
   <br>
 
 **_커밋 메시지_**
@@ -26,8 +26,6 @@
 
 ## **_Schedule_**
 
-|                                           Week                                            |                                                            주제                                                            |                                                               화                                                               |                                                                수                                                                |                                                               목                                                               |                                                               금                                                                | 토  | 일  |
-| :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-: | :-: |
-|                                          Week 1                                           |                                                           그리디                                                           |   [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 거스름돈](https://www.acmicpc.net/problem/14916)   |    [<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>](https://www.acmicpc.net/problem/9012)     |   [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 사탕 게임](https://www.acmicpc.net/problem/3085)   | [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
-| [Week 2](https://github.com/Algorithm-Study-ICE/Algorithm_Study_ICE/tree/main/Week/week2) | [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 파일정리](https://www.acmicpc.net/problem/20291) | [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 부분수열의 합](https://www.acmicpc.net/problem/1182) | [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 영식이의 손가락](https://www.acmicpc.net/problem/1614) | [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 선분 위의 점](https://www.acmicpc.net/problem/11663) |
-|                                        [Week 3]()                                         |                                                                                                                            |                                                                                                                                |
+|Week| 주제 | 화  | 수 | 목 | 금 | 토  | 일  |
+| :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|                                          Week 1      |   그리디|   [거스름돈](https://www.acmicpc.net/problem/14916) (실버5)| [문어2](https://www.acmicpc.net/problem/21313) (브론즈2)| [대회or인턴](https://www.acmicpc.net/problem/2875) (브론즈3)|   
