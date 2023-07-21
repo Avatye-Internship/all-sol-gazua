@@ -28,5 +28,5 @@
 
 |Week| 주제 | 화  | 수 | 목 | 금 | 토  | 일  |
 | :--: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|                                          Week 1      |   [그리디](https://github.com/Avatye-Internship/baekjoon/blob/main/greedy/README.md)|   [거스름돈](https://www.acmicpc.net/problem/14916) (실버5)| [문어2](https://www.acmicpc.net/problem/21313) (브론즈2)| [대회or인턴](https://www.acmicpc.net/problem/2875) (브론즈3)| https://www.acmicpc.net/problem/1343 (실버5)
+|                                          Week 1      |   [그리디](https://github.com/Avatye-Internship/baekjoon/blob/main/greedy/README.md)|   [거스름돈](https://www.acmicpc.net/problem/14916) (실버5)| [문어2](https://www.acmicpc.net/problem/21313) (브론즈2)| [대회or인턴](https://www.acmicpc.net/problem/2875) (브론즈3)| [로프](https://www.acmicpc.net/problem/2217) (실버4) | [ATM](https://www.acmicpc.net/problem/11399) (실버4) | [플리오미노](https://www.acmicpc.net/problem/1343) (실버5)
 
