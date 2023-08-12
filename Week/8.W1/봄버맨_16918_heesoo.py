@@ -58,3 +58,7 @@ for time in range(1, n+1):
         bomb()
         bombPosSave()
 
+for i in range(r):
+    for j in range(c):
+        print(graph[i][j], end='')
+    print()
