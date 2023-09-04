@@ -16,7 +16,7 @@ result = 0
 while start<=end:
     mid = (start+end)//2 # 
 
-    cnt = 1 # 왜? 1번에 놨다고 생각하는건가?
+    cnt = 1 # 1번에 공유기 놓고 시작 (최대거리는 1부터 맨끝 집일수있으니)
     prev = arr[0]
     for i in range(1,n):
         if arr[i] - prev >= mid: # 다음집과의 거리가 mid를 초과한다면 공유기 설치 가능!! 최대한 멀리 떨어트려야하니까
