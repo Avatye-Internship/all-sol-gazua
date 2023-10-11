@@ -3,8 +3,8 @@
 Hansoo_name = input()
 # 알파벳 순서별 정렬
 sort_name = sorted(Hansoo_name)
-dic ={} 
-odd_count = 0 
+dic ={}
+odd_count = 0
 result =[]
 # 딕셔너리에 저장
 for c in sort_name:

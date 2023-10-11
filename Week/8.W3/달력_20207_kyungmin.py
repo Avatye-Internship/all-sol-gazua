@@ -1,7 +1,7 @@
-import sys 
+import sys
 #numPy import 해서 런타임에러남
 # 문제 잘못 이해함
-# -> 그 다음날도 이어지는 줄 모르고 겹쳐야지만 이어진다고 생각..바보당 바보!
+# -> 그 다음날도 이어지는 줄 모르고 겹쳐야지만 이어진다고 생각
 
 N = int(input())
 calendar =[]
@@ -10,7 +10,8 @@ total = 0
 
 for i in range(N):
     start,end = map(int, input().split())
-    if end > max_end_day : max_end_day = end
+    if end > max_end_day : 
+        max_end_day = end
     calendar.append([start,end])
 
 #시작일,긴것 기준으로 정렬
